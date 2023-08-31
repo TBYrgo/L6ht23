@@ -1,0 +1,4 @@
+Hej Hej
+Detta är min första textfil
+Git är svårt som fan
+
